@@ -1,0 +1,2961 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RowSet>
+  <Row>
+    <lat>-37.5479913939</lat>
+    <lon>143.8208937749</lon>
+    <genus>Betula Pendula Dalecarlica</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5479642182</lat>
+    <lon>143.8211637503</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5480725001</lat>
+    <lon>143.8212280258</lon>
+    <genus>Aesculus X Carnea</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5481013861</lat>
+    <lon>143.8211691107</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5480711877</lat>
+    <lon>143.8211246714</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5480588354</lat>
+    <lon>143.8210798786</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5482603332</lat>
+    <lon>143.8209719484</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5481584835</lat>
+    <lon>143.8209137015</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5483368291</lat>
+    <lon>143.8208660223</lon>
+    <genus>Acmena Smithii</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5482903471</lat>
+    <lon>143.8209864252</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5481815428</lat>
+    <lon>143.8208309565</lon>
+    <genus>Araucaria Bidwillii</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5480359769</lat>
+    <lon>143.8209545279</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5488425871</lat>
+    <lon>143.8215100415</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.548026716</lat>
+    <lon>143.8208482606</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5480623105</lat>
+    <lon>143.8208328055</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5480820775</lat>
+    <lon>143.8210196307</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5480954809</lat>
+    <lon>143.821035534</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5480920069</lat>
+    <lon>143.8210564933</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5479926758</lat>
+    <lon>143.8210210181</lon>
+    <genus>Betula Papyrifera</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5478853403</lat>
+    <lon>143.8210226622</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5479189576</lat>
+    <lon>143.8210710565</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5479055015</lat>
+    <lon>143.8211515504</lon>
+    <genus>Acer Campestre</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5477744898</lat>
+    <lon>143.8210545026</lon>
+    <genus>Fraxinus Excelsior</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5482002108</lat>
+    <lon>143.8209130356</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5477035186</lat>
+    <lon>143.8209519741</lon>
+    <genus>Ulmus Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5482063436</lat>
+    <lon>143.8209278248</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5485728291</lat>
+    <lon>143.8212216085</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5492731285</lat>
+    <lon>143.8209186937</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.549315037</lat>
+    <lon>143.8209330593</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5488113863</lat>
+    <lon>143.8212404057</lon>
+    <genus>Araucaria Heterophylla</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5487664555</lat>
+    <lon>143.820911622</lon>
+    <genus>Pinus Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5490215084</lat>
+    <lon>143.8205494509</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5489279895</lat>
+    <lon>143.8205534831</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5489140513</lat>
+    <lon>143.8207596631</lon>
+    <genus>Eucalyptus Globulus Globulus</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5493255613</lat>
+    <lon>143.8213896111</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.549454971</lat>
+    <lon>143.8206719977</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5488764696</lat>
+    <lon>143.8205944677</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5486725064</lat>
+    <lon>143.8211145035</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.547934571</lat>
+    <lon>143.8211791496</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5486443886</lat>
+    <lon>143.8212279472</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5474584762</lat>
+    <lon>143.8209934044</lon>
+    <genus>Platanus Orientalis</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5484781207</lat>
+    <lon>143.8212904526</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5481908795</lat>
+    <lon>143.8211751926</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5483976821</lat>
+    <lon>143.82099234</lon>
+    <genus>Quercus Suber</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5483596206</lat>
+    <lon>143.8213671712</lon>
+    <genus>Liriodendron Tulipifera</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5485631241</lat>
+    <lon>143.8208400286</lon>
+    <genus>Araucaria Bidwillii</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5485085917</lat>
+    <lon>143.8213573929</lon>
+    <genus>Quercus Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5487239041</lat>
+    <lon>143.820829948</lon>
+    <genus>Pinus Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5487076145</lat>
+    <lon>143.820987512</lon>
+    <genus>Pinus Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5487802747</lat>
+    <lon>143.8211060635</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5485357657</lat>
+    <lon>143.8210875089</lon>
+    <genus>Sequoia Sempervirens</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5486715993</lat>
+    <lon>143.821516328</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5488104692</lat>
+    <lon>143.8211431309</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5475334889</lat>
+    <lon>143.8208364713</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5479359598</lat>
+    <lon>143.8207405064</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5479244761</lat>
+    <lon>143.8207460458</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5476624725</lat>
+    <lon>143.8214855188</lon>
+    <genus>Ulmus Glabra Camperdownii</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5475194669</lat>
+    <lon>143.8214455028</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.547517299</lat>
+    <lon>143.8211782485</lon>
+    <genus>Araucaria Bidwillii</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5474549703</lat>
+    <lon>143.8210835118</lon>
+    <genus>Ulmus Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5476554571</lat>
+    <lon>143.8208030902</lon>
+    <genus>Cupressus Torulosa</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5476305259</lat>
+    <lon>143.8207870323</lon>
+    <genus>Zelkova Serrata</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5475100113</lat>
+    <lon>143.8208500503</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5476200051</lat>
+    <lon>143.8208314287</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5475930082</lat>
+    <lon>143.8208151062</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5476234838</lat>
+    <lon>143.8209609937</lon>
+    <genus>Ulmus X Hollandica Wredei</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5475496366</lat>
+    <lon>143.8208280283</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5478839793</lat>
+    <lon>143.820804523</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5474894926</lat>
+    <lon>143.820883058</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5474404761</lat>
+    <lon>143.8208796229</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5474550275</lat>
+    <lon>143.8208475101</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5474699699</lat>
+    <lon>143.8208329559</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5474455234</lat>
+    <lon>143.8208305408</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5474325171</lat>
+    <lon>143.8208394756</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5474009881</lat>
+    <lon>143.8208619895</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5473859977</lat>
+    <lon>143.8208634772</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5473705222</lat>
+    <lon>143.8208890228</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5473459996</lat>
+    <lon>143.8208784861</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5473255376</lat>
+    <lon>143.8208639032</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5489476332</lat>
+    <lon>143.8205419989</lon>
+    <genus>Tilia Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5475650817</lat>
+    <lon>143.8208075207</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5477960435</lat>
+    <lon>143.8207709711</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5492275577</lat>
+    <lon>143.821129094</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5477280425</lat>
+    <lon>143.8213919666</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5477612553</lat>
+    <lon>143.8211294989</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5478746337</lat>
+    <lon>143.8211426406</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5479134714</lat>
+    <lon>143.8212515163</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5476390268</lat>
+    <lon>143.821136087</lon>
+    <genus>Ulmus Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5476810071</lat>
+    <lon>143.820789496</lon>
+    <genus>Cupressus Torulosa</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5476925206</lat>
+    <lon>143.8207864774</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5477090283</lat>
+    <lon>143.820778048</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5477214984</lat>
+    <lon>143.8207764652</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5477364888</lat>
+    <lon>143.8207749775</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5477509748</lat>
+    <lon>143.8207719777</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5479390351</lat>
+    <lon>143.8207475281</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5477789866</lat>
+    <lon>143.8207684615</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5479180382</lat>
+    <lon>143.8207854638</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5478134535</lat>
+    <lon>143.8207624824</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5478095091</lat>
+    <lon>143.8207729721</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5478130331</lat>
+    <lon>143.8208139789</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5478330216</lat>
+    <lon>143.8208144528</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5478585175</lat>
+    <lon>143.8207805128</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5478745347</lat>
+    <lon>143.820762453</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5478944825</lat>
+    <lon>143.8207420218</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5479105009</lat>
+    <lon>143.8207389864</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.547905526</lat>
+    <lon>143.8207699675</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5478864766</lat>
+    <lon>143.8207829671</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5478694746</lat>
+    <lon>143.8208045359</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5475509638</lat>
+    <lon>143.8209759892</lon>
+    <genus>Ulmus Minor Cornubiensis</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.547764476</lat>
+    <lon>143.8207724869</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5511870288</lat>
+    <lon>143.8205814731</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5505189908</lat>
+    <lon>143.8218145501</lon>
+    <genus>Phoenix Canariensis</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5503905382</lat>
+    <lon>143.8214485447</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5505274853</lat>
+    <lon>143.8214329936</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5506624766</lat>
+    <lon>143.8214050499</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5506650205</lat>
+    <lon>143.8215134006</lon>
+    <genus>Sequoia Sempervirens</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5506024783</lat>
+    <lon>143.8216234952</lon>
+    <genus>Sequoia Sempervirens</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5507225271</lat>
+    <lon>143.8216515419</lon>
+    <genus>Eucalyptus Maculata</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5504756353</lat>
+    <lon>143.8217903051</lon>
+    <genus>Pinus Radiata</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5503344731</lat>
+    <lon>143.8216155302</lon>
+    <genus>Phoenix Canariensis</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5506600371</lat>
+    <lon>143.8212094461</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5503728529</lat>
+    <lon>143.8212085983</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.55104698</lat>
+    <lon>143.820365</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5510289835</lat>
+    <lon>143.8206844209</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5500955141</lat>
+    <lon>143.8216625082</lon>
+    <genus>Malus Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5511959669</lat>
+    <lon>143.8204939926</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5511945359</lat>
+    <lon>143.8203955754</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5512210292</lat>
+    <lon>143.8207419657</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5508320399</lat>
+    <lon>143.8206810058</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5508279655</lat>
+    <lon>143.8208438878</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5507000139</lat>
+    <lon>143.8208863765</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5506529832</lat>
+    <lon>143.8206679998</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5505609592</lat>
+    <lon>143.82044746</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5512190236</lat>
+    <lon>143.8201739217</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5510755121</lat>
+    <lon>143.820196507</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.550742058</lat>
+    <lon>143.820152784</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5490360342</lat>
+    <lon>143.8210421736</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.551044487</lat>
+    <lon>143.8208234977</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5496085207</lat>
+    <lon>143.8217554678</lon>
+    <genus>Acmena Smithii</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5492794884</lat>
+    <lon>143.8214589838</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5494048683</lat>
+    <lon>143.8219482621</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5496824902</lat>
+    <lon>143.8218870426</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.549619207</lat>
+    <lon>143.8215497233</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5495117759</lat>
+    <lon>143.8215365248</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5494111224</lat>
+    <lon>143.8216053317</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5492584724</lat>
+    <lon>143.821968565</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5491969843</lat>
+    <lon>143.8219705377</lon>
+    <genus>Quercus Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5494554574</lat>
+    <lon>143.8219250439</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5498105141</lat>
+    <lon>143.8213037159</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5496955241</lat>
+    <lon>143.8214362301</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5495100391</lat>
+    <lon>143.821364281</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5501479937</lat>
+    <lon>143.8214910018</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5493795395</lat>
+    <lon>143.8217845305</lon>
+    <genus>Araucaria Bidwillii</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.550092469</lat>
+    <lon>143.8217220263</lon>
+    <genus>Quercus Macrocarpa</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.549655444</lat>
+    <lon>143.8216015775</lon>
+    <genus>Pinus Thunbergii</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5498730284</lat>
+    <lon>143.8215329822</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5497622304</lat>
+    <lon>143.8215475599</lon>
+    <genus>Acer Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5496609337</lat>
+    <lon>143.8215566168</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5495745254</lat>
+    <lon>143.8218661613</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5499385353</lat>
+    <lon>143.8217584934</lon>
+    <genus>Quercus Macrocarpa</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5500019612</lat>
+    <lon>143.8215210484</lon>
+    <genus>Quercus Palustris</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5500074688</lat>
+    <lon>143.821682517</lon>
+    <genus>Nyssa Sylvatica</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5499057311</lat>
+    <lon>143.8218868646</lon>
+    <genus>Quercus Rubra</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5503004944</lat>
+    <lon>143.8217969738</lon>
+    <genus>Quercus Canariensis</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5501904695</lat>
+    <lon>143.821621016</lon>
+    <genus>Fraxinus Excelsior Aurea</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5511349678</lat>
+    <lon>143.8203210031</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5492417345</lat>
+    <lon>143.8214718988</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5488763565</lat>
+    <lon>143.8211719326</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5497275495</lat>
+    <lon>143.8210538854</lon>
+    <genus>Liquidambar Styraciflua</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5496271173</lat>
+    <lon>143.8208817951</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5495421494</lat>
+    <lon>143.8203830021</lon>
+    <genus>Cupressus Torulosa</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5488757107</lat>
+    <lon>143.8205131567</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.549227735</lat>
+    <lon>143.8205376306</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.549358506</lat>
+    <lon>143.8206636002</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5491925084</lat>
+    <lon>143.8206959747</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5494702321</lat>
+    <lon>143.8209530978</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5494690401</lat>
+    <lon>143.8208258556</lon>
+    <genus>Taxodium Distichum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5494815418</lat>
+    <lon>143.8208644023</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5488690336</lat>
+    <lon>143.8210373678</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.551042483</lat>
+    <lon>143.8205380388</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5488521064</lat>
+    <lon>143.8211424617</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5499925383</lat>
+    <lon>143.821025992</lon>
+    <genus>Parrotia Persica</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5490547021</lat>
+    <lon>143.8211242537</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5492506165</lat>
+    <lon>143.8210539069</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5490660332</lat>
+    <lon>143.8213134695</lon>
+    <genus>Fagus Sylvatica</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5490331052</lat>
+    <lon>143.8213492758</lon>
+    <genus>Fagus Sylvatica</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5492580287</lat>
+    <lon>143.8211960349</lon>
+    <genus>Sequoia Sempervirens</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.549453979</lat>
+    <lon>143.8210639106</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5494500218</lat>
+    <lon>143.8209769724</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.549035393</lat>
+    <lon>143.8209823307</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5490999045</lat>
+    <lon>143.8208765115</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5491275394</lat>
+    <lon>143.8206589024</lon>
+    <genus>Brachychiton</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5494418644</lat>
+    <lon>143.8210958362</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5473185109</lat>
+    <lon>143.8208865013</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5489226581</lat>
+    <lon>143.8210289384</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5500874782</lat>
+    <lon>143.8204086064</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5508760049</lat>
+    <lon>143.820338021</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5509609699</lat>
+    <lon>143.8203790212</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5509634906</lat>
+    <lon>143.8206089718</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.551070477</lat>
+    <lon>143.8209459853</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5509008946</lat>
+    <lon>143.8213431351</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5506935309</lat>
+    <lon>143.8203285266</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5507000013</lat>
+    <lon>143.8202349808</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5506224851</lat>
+    <lon>143.8202856251</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5503677901</lat>
+    <lon>143.8203245228</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.550293967</lat>
+    <lon>143.8205704691</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5498648923</lat>
+    <lon>143.8204678709</lon>
+    <genus>Salix Babylonica</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5498662679</lat>
+    <lon>143.8206100523</lon>
+    <genus>Salix Babylonica</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5499071768</lat>
+    <lon>143.8211334522</lon>
+    <genus>Ginkgo Biloba</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5499416686</lat>
+    <lon>143.8203991882</lon>
+    <genus>Salix Caprea</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5500255168</lat>
+    <lon>143.8210860289</lon>
+    <genus>Arbutus Unedo</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.549893809</lat>
+    <lon>143.8203775057</lon>
+    <genus>Cupressus Torulosa</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5493301306</lat>
+    <lon>143.8206408795</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5499503632</lat>
+    <lon>143.820676123</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5499490811</lat>
+    <lon>143.8205488765</lon>
+    <genus>Salix Babylonica</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5495395921</lat>
+    <lon>143.820734915</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.549777507</lat>
+    <lon>143.8206788426</lon>
+    <genus>Allocasuarina Cunninghamiana</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5496580919</lat>
+    <lon>143.8206581942</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5496529684</lat>
+    <lon>143.8207481498</lon>
+    <genus>Pinus Halepensis</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5495500221</lat>
+    <lon>143.8205775014</lon>
+    <genus>Pinus Patula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5497728838</lat>
+    <lon>143.8210165761</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5499104702</lat>
+    <lon>143.8209580376</lon>
+    <genus>Angophora Costata</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5491272681</lat>
+    <lon>143.82123543</lon>
+    <genus>Prunus Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5497564572</lat>
+    <lon>143.820364767</lon>
+    <genus>Quercus Suber</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5534725274</lat>
+    <lon>143.821955489</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5473325282</lat>
+    <lon>143.8208804977</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5532620398</lat>
+    <lon>143.8213770426</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5533109657</lat>
+    <lon>143.8218249883</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5533265107</lat>
+    <lon>143.8219020092</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5533335377</lat>
+    <lon>143.8219848682</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5533405095</lat>
+    <lon>143.8220624988</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5533709686</lat>
+    <lon>143.8218964074</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5534800195</lat>
+    <lon>143.8220565644</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5534735013</lat>
+    <lon>143.82208049</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5534639982</lat>
+    <lon>143.8221199818</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5534450277</lat>
+    <lon>143.8220920145</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5532449717</lat>
+    <lon>143.8212205438</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5534954918</lat>
+    <lon>143.8221629806</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5532325191</lat>
+    <lon>143.8211385068</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5534780027</lat>
+    <lon>143.821937497</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5534754954</lat>
+    <lon>143.8219029649</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5534625115</lat>
+    <lon>143.8218695307</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.553448516</lat>
+    <lon>143.8218934541</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5534535101</lat>
+    <lon>143.8219294799</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5534469575</lat>
+    <lon>143.8217928826</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5534444889</lat>
+    <lon>143.8217604985</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.553422511</lat>
+    <lon>143.8217904669</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.553406512</lat>
+    <lon>143.821747493</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5534214651</lat>
+    <lon>143.8217400312</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5534004967</lat>
+    <lon>143.8217240277</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5530925372</lat>
+    <lon>143.8218610759</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5534790209</lat>
+    <lon>143.8221435071</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5515446237</lat>
+    <lon>143.8210549546</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5523929868</lat>
+    <lon>143.8208706295</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5520950423</lat>
+    <lon>143.8209204253</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5519716178</lat>
+    <lon>143.8209619653</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5522279984</lat>
+    <lon>143.8208984697</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5518390413</lat>
+    <lon>143.8209605107</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5532519953</lat>
+    <lon>143.8212960297</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5516970035</lat>
+    <lon>143.8209930426</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5529050333</lat>
+    <lon>143.8220995406</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5516245374</lat>
+    <lon>143.8213749916</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5514390181</lat>
+    <lon>143.8212479779</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5516240242</lat>
+    <lon>143.8209669587</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5514704716</lat>
+    <lon>143.821036479</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5514225184</lat>
+    <lon>143.8213954606</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5514025454</lat>
+    <lon>143.8214244775</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5513775147</lat>
+    <lon>143.8214464908</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5512560172</lat>
+    <lon>143.8212975375</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5532139971</lat>
+    <lon>143.8209825132</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5532229707</lat>
+    <lon>143.8210631123</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5500907351</lat>
+    <lon>143.8210109382</lon>
+    <genus>Quercus Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5513580096</lat>
+    <lon>143.8219945926</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5512074887</lat>
+    <lon>143.8220390277</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5511425324</lat>
+    <lon>143.822016512</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5510334838</lat>
+    <lon>143.8219730146</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5509670308</lat>
+    <lon>143.8219490427</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5509731951</lat>
+    <lon>143.8211419694</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5508898647</lat>
+    <lon>143.8210507873</lon>
+    <genus>Ulmus X Hollandica</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5508613158</lat>
+    <lon>143.8211784964</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5507182886</lat>
+    <lon>143.8211732877</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.550756998</lat>
+    <lon>143.8213854716</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5531044626</lat>
+    <lon>143.8219425329</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5500103923</lat>
+    <lon>143.820720102</lon>
+    <genus>Allocasuarina Stricta</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5514820009</lat>
+    <lon>143.8220875559</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5501444529</lat>
+    <lon>143.8210174438</lon>
+    <genus>Quercus Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5502723784</lat>
+    <lon>143.8212925312</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5501217574</lat>
+    <lon>143.8211377202</lon>
+    <genus>Quercus Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5493448676</lat>
+    <lon>143.820932598</lon>
+    <genus>Aesculus Hippocastanum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5500689595</lat>
+    <lon>143.8212208385</lon>
+    <genus>Betula Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5501604704</lat>
+    <lon>143.8212329695</lon>
+    <genus>Photinia Glabra</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5501231306</lat>
+    <lon>143.8212724361</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5527946277</lat>
+    <lon>143.8210090632</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5526466</lat>
+    <lon>143.822290251</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5507969645</lat>
+    <lon>143.8217409542</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5504989029</lat>
+    <lon>143.8212154996</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.550299096</lat>
+    <lon>143.8216328137</lon>
+    <genus>Eucalyptus Globulus Globulus</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5523955691</lat>
+    <lon>143.8222543661</lon>
+    <genus>Pinus Radiata</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5528529829</lat>
+    <lon>143.8222944936</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5527005214</lat>
+    <lon>143.8223560275</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.553138494</lat>
+    <lon>143.8221845051</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5527715115</lat>
+    <lon>143.8221074741</lon>
+    <genus>Pinus Radiata</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5526835166</lat>
+    <lon>143.8221630417</lon>
+    <genus>Pinus Radiata</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5525444939</lat>
+    <lon>143.8223670307</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5523380473</lat>
+    <lon>143.8223164963</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5524385445</lat>
+    <lon>143.8219755457</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5522119861</lat>
+    <lon>143.8223514952</lon>
+    <genus>Pinus Pinaster</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5521965257</lat>
+    <lon>143.8221730344</lon>
+    <genus>Pinus Radiata</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5515216031</lat>
+    <lon>143.8219045487</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5524604644</lat>
+    <lon>143.8222869593</lon>
+    <genus>Pinus Radiata</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5516084879</lat>
+    <lon>143.8219820199</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5523896137</lat>
+    <lon>143.8220890492</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5523250191</lat>
+    <lon>143.8220740127</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5515280726</lat>
+    <lon>143.821603916</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5514639997</lat>
+    <lon>143.8216499337</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5514435067</lat>
+    <lon>143.8217195268</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5514214611</lat>
+    <lon>143.8217899945</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5514025137</lat>
+    <lon>143.8218589925</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5516530134</lat>
+    <lon>143.8221769745</lon>
+    <genus>Pinus Radiata</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5516099825</lat>
+    <lon>143.8216294975</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5516939596</lat>
+    <lon>143.8216515175</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5517239603</lat>
+    <lon>143.8217720112</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5530305063</lat>
+    <lon>143.8222623699</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5527360204</lat>
+    <lon>143.8199785905</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5463479632</lat>
+    <lon>143.8210830997</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.54691448</lat>
+    <lon>143.8225130132</lon>
+    <genus>Quercus Sp.</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5479684844</lat>
+    <lon>143.8207328677</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5532225164</lat>
+    <lon>143.8197820058</lon>
+    <genus>Quercus Nigra</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5530924674</lat>
+    <lon>143.8198029533</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5530020314</lat>
+    <lon>143.8198174618</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5529075178</lat>
+    <lon>143.8198404958</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5528259659</lat>
+    <lon>143.8198564591</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5527379793</lat>
+    <lon>143.8198664869</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5526415265</lat>
+    <lon>143.8198915008</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5525619886</lat>
+    <lon>143.8198985808</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.552484536</lat>
+    <lon>143.8200294888</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5526605004</lat>
+    <lon>143.8199909548</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5466294837</lat>
+    <lon>143.8209930273</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5528434671</lat>
+    <lon>143.8199609907</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.552925548</lat>
+    <lon>143.8199455141</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5530155077</lat>
+    <lon>143.8199245483</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5529934637</lat>
+    <lon>143.8200854509</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.553006021</lat>
+    <lon>143.8201895163</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5530165321</lat>
+    <lon>143.8203000374</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5529070329</lat>
+    <lon>143.8202075282</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5524729557</lat>
+    <lon>143.8199184615</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5523800101</lat>
+    <lon>143.8199399679</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5522939667</lat>
+    <lon>143.8199553883</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5521995209</lat>
+    <lon>143.8199605062</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5525715472</lat>
+    <lon>143.8200150381</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5469200126</lat>
+    <lon>143.8209670305</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5472989859</lat>
+    <lon>143.820885485</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5472615062</lat>
+    <lon>143.8208629815</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5472474627</lat>
+    <lon>143.8208625452</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5470399883</lat>
+    <lon>143.820919017</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.546953461</lat>
+    <lon>143.8209245256</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5468499684</lat>
+    <lon>143.8209349935</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5471620334</lat>
+    <lon>143.8208974906</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5470929446</lat>
+    <lon>143.8209309993</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5470828853</lat>
+    <lon>143.8209071037</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5470700176</lat>
+    <lon>143.8209215493</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5470564742</lat>
+    <lon>143.8209039613</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5470114722</lat>
+    <lon>143.8209210211</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5463765022</lat>
+    <lon>143.821042463</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5469345265</lat>
+    <lon>143.8209779362</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5466845135</lat>
+    <lon>143.8210200186</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5468754786</lat>
+    <lon>143.820964511</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5468769636</lat>
+    <lon>143.8209739922</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5468730122</lat>
+    <lon>143.8209734699</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5468089643</lat>
+    <lon>143.8209694679</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5467940021</lat>
+    <lon>143.8209660108</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5467385192</lat>
+    <lon>143.8209655047</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5467025274</lat>
+    <lon>143.8209749722</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.546540493</lat>
+    <lon>143.8210111342</lon>
+    <genus>Fraxinus Excelsior Pendula</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.546570006</lat>
+    <lon>143.8210390295</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5465710395</lat>
+    <lon>143.8209920362</lon>
+    <genus>Populus Nigra Italica</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5466004766</lat>
+    <lon>143.8209929598</lon>
+    <genus>Populus Nigra Italica</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.552126492</lat>
+    <lon>143.8200910204</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5469870109</lat>
+    <lon>143.8209229914</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5531034771</lat>
+    <lon>143.8211550103</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5528720563</lat>
+    <lon>143.820476014</lon>
+    <genus>Ulmus Minor Variegata</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5529380241</lat>
+    <lon>143.8204524642</lon>
+    <genus>Ulmus Minor Variegata</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5533054026</lat>
+    <lon>143.8205129834</lon>
+    <genus>Quercus Nigra</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5532884785</lat>
+    <lon>143.8203918608</lon>
+    <genus>Quercus Nigra</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5532914946</lat>
+    <lon>143.8203259928</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5532799795</lat>
+    <lon>143.8202725492</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.553263019</lat>
+    <lon>143.820160478</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5532570234</lat>
+    <lon>143.820057033</lon>
+    <genus>Quercus Nigra</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5532449844</lat>
+    <lon>143.819976505</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5532355391</lat>
+    <lon>143.8198929951</lon>
+    <genus>Quercus Nigra</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5530690042</lat>
+    <lon>143.8208899704</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5522904626</lat>
+    <lon>143.820060527</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5531055105</lat>
+    <lon>143.8210699737</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5526595354</lat>
+    <lon>143.8205250205</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5530904878</lat>
+    <lon>143.8212310477</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5530824998</lat>
+    <lon>143.821323979</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5530784779</lat>
+    <lon>143.821413047</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5532210077</lat>
+    <lon>143.8206855337</lon>
+    <genus>Eucalyptus Ovata</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5533434602</lat>
+    <lon>143.8206545018</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5530554911</lat>
+    <lon>143.8207354727</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.55297951</lat>
+    <lon>143.8206390008</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5529200045</lat>
+    <lon>143.820761533</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5529289836</lat>
+    <lon>143.8209775478</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5526900279</lat>
+    <lon>143.8210696053</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.552527461</lat>
+    <lon>143.8208454646</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5491719603</lat>
+    <lon>143.8218679669</lon>
+    <genus>Araucaria Bidwillii</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.553083493</lat>
+    <lon>143.8209810433</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5517519561</lat>
+    <lon>143.8205560242</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5521124624</lat>
+    <lon>143.8199844742</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.552021456</lat>
+    <lon>143.8200040004</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.552049006</lat>
+    <lon>143.8201064834</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5519314606</lat>
+    <lon>143.8200264577</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5519470092</lat>
+    <lon>143.8201335275</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5518645455</lat>
+    <lon>143.8201574819</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.551845955</lat>
+    <lon>143.8200419916</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5515940311</lat>
+    <lon>143.8200999653</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5516790318</lat>
+    <lon>143.8201884691</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5517295351</lat>
+    <lon>143.8203369862</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.551775038</lat>
+    <lon>143.8201783709</lon>
+    <genus>Cedrus Deodara</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5517640313</lat>
+    <lon>143.8200659664</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5529219942</lat>
+    <lon>143.8205539581</lon>
+    <genus>Ulmus Minor Variegata</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5517460254</lat>
+    <lon>143.8204800212</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5525150483</lat>
+    <lon>143.820562034</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5517654603</lat>
+    <lon>143.8206995999</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5517729798</lat>
+    <lon>143.8207769695</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5519809958</lat>
+    <lon>143.8204679783</lon>
+    <genus>Quercus Canariensis</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5519974659</lat>
+    <lon>143.8206419968</lon>
+    <genus>Quercus Canariensis</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5520505167</lat>
+    <lon>143.8205445135</lon>
+    <genus>Quercus Canariensis</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5521345353</lat>
+    <lon>143.8206100234</lon>
+    <genus>Quercus Canariensis</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5521139652</lat>
+    <lon>143.8204454624</lon>
+    <genus>Quercus Canariensis</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5523954574</lat>
+    <lon>143.8205600432</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5524239995</lat>
+    <lon>143.8204439032</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.552519548</lat>
+    <lon>143.8203700468</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5525950408</lat>
+    <lon>143.8203965053</lon>
+    <genus>Quercus Robur</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5527835013</lat>
+    <lon>143.8207999672</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5517405166</lat>
+    <lon>143.8204089802</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5419910206</lat>
+    <lon>143.8233259675</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5493337984</lat>
+    <lon>143.8216215454</lon>
+    <genus>Sequoiadendron Giganteum</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5424979868</lat>
+    <lon>143.8241640131</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5421930035</lat>
+    <lon>143.8237399657</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5421245037</lat>
+    <lon>143.8237300085</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5421004971</lat>
+    <lon>143.8237769715</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5421169985</lat>
+    <lon>143.8236709384</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.542103497</lat>
+    <lon>143.8236139749</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5420659806</lat>
+    <lon>143.8235854984</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5420529942</lat>
+    <lon>143.8234844176</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5420960104</lat>
+    <lon>143.8235578916</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5420435248</lat>
+    <lon>143.8231459901</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5425840326</lat>
+    <lon>143.8238135124</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5421219916</lat>
+    <lon>143.8233869909</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5425469616</lat>
+    <lon>143.8235970271</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5424129786</lat>
+    <lon>143.8229465263</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.542348494</lat>
+    <lon>143.8226444663</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5420104693</lat>
+    <lon>143.8224979961</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5420233089</lat>
+    <lon>143.8223830533</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5419744876</lat>
+    <lon>143.8228610224</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5420780403</lat>
+    <lon>143.8230815075</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5416040008</lat>
+    <lon>143.822165961</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5416835045</lat>
+    <lon>143.8221565497</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5417250133</lat>
+    <lon>143.82205202</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.541787016</lat>
+    <lon>143.8219644994</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5418190223</lat>
+    <lon>143.8220764681</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5418325226</lat>
+    <lon>143.8223105372</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5422015359</lat>
+    <lon>143.823421066</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5442234593</lat>
+    <lon>143.8246309689</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5429950246</lat>
+    <lon>143.8241294953</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5428150089</lat>
+    <lon>143.8244049717</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5438680159</lat>
+    <lon>143.825483039</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5439051095</lat>
+    <lon>143.825491532</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5438694762</lat>
+    <lon>143.8254709633</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5437449764</lat>
+    <lon>143.8254369602</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5436714713</lat>
+    <lon>143.8253501078</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5437025321</lat>
+    <lon>143.8252869874</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5438334846</lat>
+    <lon>143.8252810155</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5436309593</lat>
+    <lon>143.8252210173</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5435589999</lat>
+    <lon>143.8251335703</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.542264989</lat>
+    <lon>143.8242065391</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5441649564</lat>
+    <lon>143.8246399576</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5418875393</lat>
+    <lon>143.8219275139</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5442769887</lat>
+    <lon>143.824618993</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5442394819</lat>
+    <lon>143.8246954947</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5442040409</lat>
+    <lon>143.8245539974</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5430560371</lat>
+    <lon>143.8237785139</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5431620147</lat>
+    <lon>143.823683042</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5430289926</lat>
+    <lon>143.8235496217</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5430679943</lat>
+    <lon>143.8234369713</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.542969969</lat>
+    <lon>143.8233469568</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5429829704</lat>
+    <lon>143.823575412</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5429659818</lat>
+    <lon>143.8234345209</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5424679596</lat>
+    <lon>143.823344527</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5423765418</lat>
+    <lon>143.823520517</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5435744782</lat>
+    <lon>143.8245284532</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+  <Row>
+    <lat>-37.5433190103</lat>
+    <lon>143.8217675432</lon>
+    <genus>Not Assessed</genus>
+    <location>Ballarat Botanical Gardens</location>
+  </Row>
+</RowSet>
