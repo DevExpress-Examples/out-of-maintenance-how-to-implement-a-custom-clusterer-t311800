@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CureClusterer.cs](./CS/CustomClustererSample/CureClusterer.cs) (VB: [CureClusterer.vb](./VB/CustomClustererSample/CureClusterer.vb))**
+* [MainWindow.xaml](./CS/CustomClustererSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CustomClustererSample/MainWindow.xaml))
+<!-- default file list end -->
 # How to implement a custom clusterer
 
 
